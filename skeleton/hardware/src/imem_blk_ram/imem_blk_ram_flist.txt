@@ -1,0 +1,13 @@
+# Output products list for <imem_blk_ram>
+blk_mem_gen_ds512.pdf
+blk_mem_gen_readme.txt
+imem_blk_ram.asy
+imem_blk_ram.gise
+imem_blk_ram.mif
+imem_blk_ram.ngc
+imem_blk_ram.v
+imem_blk_ram.veo
+imem_blk_ram.xco
+imem_blk_ram.xise
+imem_blk_ram_flist.txt
+imem_blk_ram_xmdf.tcl

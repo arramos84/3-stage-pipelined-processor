@@ -1,0 +1,13 @@
+# Output products list for <isr_mem>
+blk_mem_gen_ds512.pdf
+blk_mem_gen_readme.txt
+isr_mem.asy
+isr_mem.gise
+isr_mem.mif
+isr_mem.ngc
+isr_mem.v
+isr_mem.veo
+isr_mem.xco
+isr_mem.xise
+isr_mem_flist.txt
+isr_mem_xmdf.tcl

@@ -1,0 +1,13 @@
+# Output products list for <bios_mem>
+bios_mem.asy
+bios_mem.gise
+bios_mem.mif
+bios_mem.ngc
+bios_mem.v
+bios_mem.veo
+bios_mem.xco
+bios_mem.xise
+bios_mem_flist.txt
+bios_mem_xmdf.tcl
+blk_mem_gen_ds512.pdf
+blk_mem_gen_readme.txt
